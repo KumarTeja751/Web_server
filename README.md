@@ -55,7 +55,7 @@ httpd = HTTPServer(server_address,HelloHandler)
 httpd.serve.forever()
 ```
 # OUTPUT:
-![webserver](https://github.com/KumarTeja751/Web_server/assets/144947756/3fad55a9-c2f3-4274-8850-e9faf54523c2)
+![output](https://github.com/KumarTeja751/Web_server/assets/144947756/3fad55a9-c2f3-4274-8850-e9faf54523c2)
 
 # RESULT:
 
